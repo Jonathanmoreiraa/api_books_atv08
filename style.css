@@ -1,0 +1,13 @@
+body{
+    width: 100vw;
+    padding: 40px;
+}
+
+.search input{
+    width: 50%;
+}
+
+.search button{
+    border-radius: 5px;
+    margin-left: 16px;
+}
